@@ -476,3 +476,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 API/appsettings.json
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
